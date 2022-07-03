@@ -1,9 +1,13 @@
 # App title 
 
-## Purpose
-This app is designed to support Anime lovers with tracking when thier faviourite shows are being released so they never miss an ep. 
 
-This will allow users to look through mulitple platforms of shows and filter through each to see what they would like to watch depending on the platform they have a asubscription to. 
+
+## When you miss your favourite show and everyone spoilers it!
+![Trello-1](docs/Sad-Pika.gif)
+
+This app is designed for the Harkcore Anime lovers, the ones who have 'seen it all' and are 'not so patiently' waiting for the next eps to come out. This platform helps with tracking when thier faviourite shows are being released so they never miss an ep and have upcoming shows scheduled on thier 'my weekly watchlist' 
+
+This will allow users to look through mulitple platforms of shows and filter through each to see what they would like to watch depending on the platform they have a a subscription to. 
 
 This centralises this decision, so people do not have to search through each platform individually for what to watch. 
 
