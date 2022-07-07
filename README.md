@@ -19,8 +19,11 @@ If a shows airdate is finished it will drop off their calander but still be avai
 Users will be able to have a single sign up option through Google. 
 
 ## Target audience
+![Target-aud](docs/Artboard 1_1.png)
 
-
+![Target-aud](docs/Matilda.png)
+![Target-aud](docs/Cam.png)
+![Target-aud](docs/Akihiro.png)
 
 
 ## Tech stack
