@@ -5,7 +5,7 @@
 ## When you miss your favourite show and everyone spoilers it!
 ![Trello-1](docs/Sad-Pika.gif)
 
-This app is designed for the Harkcore Anime lovers, the ones who have 'seen it all' and are 'not so patiently' waiting for the next eps to come out. This platform helps with tracking when thier faviourite shows are being released so they never miss an ep and have upcoming shows scheduled on thier 'my weekly watchlist' 
+This app is designed for the Hardcore Anime lovers, the ones who have 'seen it all' and are 'not so patiently' waiting for the next eps to come out. This platform helps with tracking when thier faviourite shows are being released so they never miss an ep and have upcoming shows scheduled on thier 'my weekly watchlist' 
 
 This will allow users to look through mulitple platforms of shows and filter through each to see what they would like to watch depending on the platform they have a a subscription to. 
 
@@ -19,6 +19,23 @@ If a shows airdate is finished it will drop off their calander but still be avai
 Users will be able to have a single sign up option through Google. 
 
 ## Target audience
+
+
+
+
+## Tech stack
+API - Ruby on Rails and Front End - HTML, CSS, React, 
+
+
+## ERD
+![ERD](docs/ERD.jpg)
+
+## Dataflow Diagram
+
+## Application Architecture Diagram
+
+## User Stories
+
 |User Role     | Action/Goal                                                  |Value                                 | Acceptance criteria|
 |------------|----------------------------------------------------------------|--------------------------------------|--------------------|
 | As a Guest | I want to access and navigate the website                      |so I can understand the purpose of the website                                                                  |1.See non-logged in user functionality e.g sign-up / Log-in See
@@ -38,17 +55,6 @@ Users will be able to have a single sign up option through Google.
 | As a Admin | I want to delete reviews                                       | so I can regulate the site and ensure there are no in-approriate comments to maintain community guidelines | 1. Be notified a review has been deleted 2. No longer see this review in the shows review page
 | As a Admin | I want to Add users and Remove Users and Edit users            | so I can troubleshoot and support new users with their accounts or remove users who go against community guidelines | 1. See all user data and have options to create, edit and delete. 
 | As a Admin | I want to Add shows to API via form                            | so I can maintain the database and keep the platform up to date with ongoing shows | 1. See new show added to shows list and be able to search for show after adding it
-
-
-
-## Tech stack
-API - Ruby on Rails and Front End - HTML, CSS, React, 
-
-## Dataflow Diagram
-
-## Application Architecture Diagram
-
-## User Stories
 
 ## Wireframes
 
