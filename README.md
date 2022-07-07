@@ -34,6 +34,8 @@ API - Ruby on Rails and Front End - HTML, CSS, React,
 
 ## Application Architecture Diagram
 
+![AAD](docs/ApplicationArchitecture.jpeg)
+
 ## User Stories
 
 |User Role     | Action/Goal                                                  |Value                                 | Acceptance criteria|
