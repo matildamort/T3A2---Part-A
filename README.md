@@ -63,6 +63,13 @@ API - Ruby on Rails and Front End - HTML, CSS, React,
 
 ## Wireframes
 
+### Initial Low-Res
+![WF-Low](docs/Low-res-wireframes/low-res-all.png)
+
+### High-res
+![WF-High](docs/Grouped-wireframes.png)
+
+
 ## Project Management
 
 #### To start our project we first set up standard ruberic requirements in Trello and started basic admin work e.g Github Repo before we brainstormed on some key concepts or interests of both people to determine a product. 
