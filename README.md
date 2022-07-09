@@ -63,10 +63,10 @@ API - Ruby on Rails and Front End - HTML, CSS, React,
 
 ## Wireframes
 
-### Initial Low-Res
+### Initial Low-Res [Full-exported-artboards](docs/Low-res-wireframes)
 ![WF-Low](docs/Low-res-wireframes/low-res-all.png)
 
-### High-res
+### High-res [Full-exported-artboards](docs/High-res-wireframes)
 ![WF-High](docs/Grouped-wireframes.png)
 
 
