@@ -63,6 +63,10 @@ API - Ruby on Rails and Front End - HTML, CSS, React,
 
 ## Wireframes
 
+### Short video capture of flows (User/Guest view adjusts if logged in)
+[![Image showing video to watch ](docs/Youtube-link.png)](https://youtu.be/6ByDqdx9syU)
+
+
 ### Initial Low-Res [Full-exported-artboards](docs/Low-res-wireframes)
 ![WF-Low](docs/Low-res-wireframes/low-res-all.png)
 
