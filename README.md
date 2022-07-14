@@ -87,7 +87,7 @@ API - Ruby on Rails and Front End - HTML, CSS, React
 After second round of reviews it was highlighted that some functionality based off the user stories were not outlined in the Wireframes
 - Client requested the ability for user to see their account details and delete their account to allow user autonomy. Additional wirewireframe for account was created and ability to see this in the 
 - Ability for Admin to delete accounts to ensure support of users and also remove any malicious accounts.
-- Create clear segregation between each section and adjust general spcaing. e.g ensure that the view show section is seperated from the initial   
+- Create clear segregation between each section and adjust general spcaing. e.g ensure that the view show section is seperated from the initial 
 
 
 ### High-res (additional missed wireframes)
