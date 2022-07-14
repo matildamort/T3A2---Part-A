@@ -27,7 +27,7 @@ Users will be able to have a single sign up option through Google.
 
 
 ## Tech stack
-API - Ruby on Rails and Front End - HTML, CSS, React, 
+API - Ruby on Rails and Front End - HTML, CSS, React
 
 
 ## ERD
@@ -70,9 +70,28 @@ API - Ruby on Rails and Front End - HTML, CSS, React,
 ### Initial Low-Res [Full-exported-artboards](docs/Low-res-wireframes)
 ![WF-Low](docs/Low-res-wireframes/low-res-all.png)
 
+#### After inital meeting with the client and gathering initial feedback they have requested
+- The addition of the ability for a guest to view what a weekly watchlist woud look like so they have an understanding of how the platform works.
+- Client requested new fonts that better represent their brand and taget audience - multiple samples of new brand and logo was provided before deciding on a final. 
+- The decision to use a single simple colour pallette was decided to ensure that the site was not overwhelming as there would be muliple colours already displayed with the different platform buttons and the shows icons/titlepages. 
+- The addition of easier to navigate buttons and the abiliity to easily remove a show from the users watchlist and easily add a recview to be added to all shows on both the homepage and the individuals full watchlist. 
+- The overall design elements needed reiview  - the request to adjust all buttons to be rounded and make it clearer any calls to action. 
+- Client wanted a clearer idea of the final product - so additional design elements were added including imagery & shading. 
+- Ability for admin to delete reviews not included in initial diagrams - this feature is important to monitor reviews
+
+
+
 ### High-res [Full-exported-artboards](docs/High-res-wireframes)
 ![WF-High](docs/Grouped-wireframes.png)
 
+After second round of reviews it was highlighted that some functionality based off the user stories were not outlined in the Wireframes
+- Client requested the ability for user to see their account details and delete their account to allow user autonomy. Additional wirewireframe for account was created and ability to see this in the 
+- Ability for Admin to delete accounts to ensure support of users and also remove any malicious accounts.
+- Create clear segregation between each section and adjust general spcaing. e.g ensure that the view show section is seperated from the initial   
+
+
+### High-res (additional missed wireframes)
+![WF-High-Missed](docs/Grouped-wireframes-missed.png)
 
 ## Project Management
 
