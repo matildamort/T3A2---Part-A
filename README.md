@@ -18,8 +18,11 @@ If a show is finished, it will drop off their calendar but still be available to
 
 Users will be able to have a single sign up option through Google. 
 
-## Target audience
-![Target-aud](docs/Artboard 1_1.png)
+## Target audience - Anyone who loves Anime
+
+After going to both team members groups of friends and asking what they would like to see in the world and also based on Matilda and Cameron common interests, the concept of Watchi was invented.
+
+
 
 ![Target-aud](docs/Matilda.png)
 ![Target-aud](docs/Cam.png)
