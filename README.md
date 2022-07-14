@@ -31,7 +31,7 @@ API - Ruby on Rails and Front End - HTML, CSS, React
 
 
 ## ERD
-![ERD](docs/ERD.jpg)
+![ERD](docs/ERD-1.jpg)
 
 ## Dataflow Diagram
 
