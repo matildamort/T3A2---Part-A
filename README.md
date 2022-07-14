@@ -27,8 +27,31 @@ Users will be able to have a single sign up option through Google.
 
 
 ## Tech stack
-API - Ruby on Rails and Front End - HTML, CSS, React
+#### Back End:
+<div>
+    <ul>
+        <li> Ruby On Rails </li>
+        <li> Knock for Authentication </li>
+        <li> Heroku for deployment </li>
+        <li> AWS for active storage of images </li>
+        <li> RSPEC for testing </li>
+        <li> Git / GitHub for version control</li>
+    </ul>
+</div>
 
+#### Front End:
+<div>
+    <ul>
+        <li> React </li>
+        <li> HTML5 </li>
+        <li> CSS </li>
+        <li> Netlify for deployment </li>
+        <li> Jest for testing </li>
+        <li> Git / GitHub for version control</li>
+        <li> Styled Components </li>
+        <li> Material UI </li>
+    </ul>
+</div>
 
 ## ERD
 ![ERD](docs/ERD-1.jpg)
