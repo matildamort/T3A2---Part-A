@@ -16,11 +16,11 @@ This application pulls data on shows from an API which details all the shows and
 
 If a show is finished, it will drop off their calendar but still be available to search and see the rating & reviews of the show.  
 
-Users will be able to have a single sign up option through Google. 
+Users will be able to have a single sign up option through Google. - Sprinkle!
 
 ## Target audience - Anyone who loves Anime
 
-After going to both team members groups of friends and asking what they would like to see in the world and also based on Matilda and Cameron common interests, the concept of Watchi was invented.
+After going to both team members groups of friends and asking what they would like to see in the world and also based on Matilda and Cameron common interests, the concept of Watchi was invented and as one of the many target audiences this has been based on our needs of this app. 
 
 
 
@@ -67,12 +67,18 @@ After going to both team members groups of friends and asking what they would li
 
 ## User Stories
 
+### This initially only had the user role and action/goal - however the decision was made to add in acceptance crieteria to clearly define this. 
+
+Change to inital User flows
+- The decision was also made to remove Single sign-on with Google due to privacy issues. 
+- Removed the username in navbar as user has ability to access their account to review.
+
 |User Role     | Action/Goal                                                  |Value                                 | Acceptance criteria|
 |------------|----------------------------------------------------------------|--------------------------------------|--------------------|
 | As a Guest | I want to access and navigate the website                      |so I can understand the purpose of the website                                                                  |1.See non-logged in user functionality e.g sign-up / Log-in See
 | As a Guest | I want to see all shows                                        |so that I can know what are the most popular anime's currently airing                                           |1.Navigate to the show pages on main page and view top 10 current shows
 | As a Guest | I want to filter shows by platform                             |so if I only have access to a certain subscription, I am only seeing that subscription shows                    |1. Ability to click on a subscription service and see rerendered shows
-| As a Guest | I want to sign-up with google or my personal details           |so I can access the add to watchlist feature and so I can have the option to save time and not have to remember login details | 1. Ability to click sign-up button 2. Be directed to sign-up page option 3. Process account sign-up through google account 4. Be logged in with google account
+| As a Guest | I want to sign-up with google or my personal details           |so I can access the add to watchlist feature and so I can have the option to save time and not have to remember login details | 1. Ability to click sign-up button 2. Be directed to sign-up page option <!-- 3. Process account sign-up through google account 4. Be logged in with google account -->
 | As a Guest | I want to see show reviews and comments                        |so I can see what other people think of a show and decide if I should watch it                                  | 1. Ability to click on a show and be taken to that shows dedicated page with reviews.
 | As a Guest | I want to see add to watch list button to be redirected to sign-up page | so that I understand how the platform works and the features available to me if I sign-up             | 1. Ability to click on button and see a popup or redirect to sign-up page. 
 | As a Guest | I want to access an about page                                 | so I understand how the platform work and the features available to me | 1. Ability to click on about page and be re-directed to page. 
@@ -114,6 +120,7 @@ After second round of reviews it was highlighted that some functionality based o
 - Client requested the ability for user to see their account details and delete their account to allow user autonomy. Additional wireframe for account was created and ability to see this in the 
 - Ability for Admin to delete accounts to ensure support of users and also remove any malicious accounts.
 - Create clear segregation between each section and adjust general spacing. e.g ensure that the view show section is separated from the initial 
+
 
 
 ### High-res (additional missed wireframes)
