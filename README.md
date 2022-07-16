@@ -135,3 +135,15 @@ After second round of reviews it was highlighted that some functionality based o
 #### After this we spent half a day whiteboarding wireframes and concepts for a minimum viable product and started basic wireframes. Wireframes were done together so everyone understood the final product and agreed on outcomes. 
 
 ![Trello-2](docs/Trello-boards/Trello-2.png)
+
+### After the initial concept was ready to go, we split up the additional tasks based on strengths and interests of each person. 
+
+![Trello-3](docs/Trello-boards/Trello-3.png)
+
+### Regular communication was a key feature and ensuring we each knew what the other was working on. We have daily standups and regular check-ins. The inital plan was to work on both the BE and FE together; with one person overly responsible for BE as a smaller task and existing knowledge, this allows for both team members to work sooner on the FE together and split up tasks.
+
+![Trello-4](docs/Trello-boards/Trello-4.png)
+
+
+### To ensure clear priorities, a color coding system was discussed and implemented.
+![Trello-5](docs/Trello-boards/Trello-5.png)
