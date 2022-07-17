@@ -1,4 +1,4 @@
-# App title 
+# Watchi
 
 
 
@@ -127,6 +127,8 @@ After second round of reviews it was highlighted that some functionality based o
 ![WF-High-Missed](docs/Grouped-wireframes-missed.png)
 
 ## Project Management
+
+### https://trello.com/b/z3ikJbQD/full-stack-app
 
 #### To start our project we first set up standard rubric requirements in Trello and started basic admin work e.g Github Repo before we brainstormed on some key concepts or interests of both people to determine a product. 
 
